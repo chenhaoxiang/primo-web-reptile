@@ -2,7 +2,7 @@
  * copyfuture.com
  * Copyright (C) 2013-2019 All Rights Reserved.
  */
-package wiki.primo.web.reptile.util;
+package wiki.primo.reptile.util;
 
 import org.openqa.selenium.chrome.ChromeOptions;
 

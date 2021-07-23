@@ -2,7 +2,7 @@
  * chenhx
  * Copyright (C) 2013-2021 All Rights Reserved.
  */
-package wiki.primo.web.reptile.csdn;
+package wiki.primo.reptile.csdn;
 
 /**
  * @author chenhx

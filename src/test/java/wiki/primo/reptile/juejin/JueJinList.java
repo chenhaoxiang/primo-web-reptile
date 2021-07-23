@@ -2,7 +2,7 @@
  * chenhx
  * Copyright (C) 2013-2021 All Rights Reserved.
  */
-package wiki.primo.web.reptile.juejin;
+package wiki.primo.reptile.juejin;
 
 import com.alibaba.fastjson.JSON;
 import org.openqa.selenium.By;
